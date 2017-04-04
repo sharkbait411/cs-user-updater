@@ -1,6 +1,6 @@
 cs-user-updater
 #
-author: mbranche
+author: mbranche<br>
 this is a script to update user time limits, and reservation maxes on Quali Cloudshell
 # 
 This script takes a csv file, with the following format:<br>
